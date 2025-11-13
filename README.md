@@ -59,7 +59,11 @@ index.html, in your browser.
 
 📸 Screenshot (Optional)
 Winner announcement screen displayed after a successful game.
-<img width="1857" height="873" alt="Screenshot 2025-11-13 131514" src="https://github.com/user-attachments/assets/43fdecf3-e013-46af-aea5-ad85cf3beacf" />
+<p align="center">
+  <img alt="Screenshot 2025-11-13 131514" src="https://github.com/user-attachments/assets/477ab21f-7bef-4769-ad40-b5a28045341d"  width="32%/>
+  <img alt="Screenshot 2025-11-13 131514" src="https://github.com/user-attachments/assets/7273c23c-5198-47bc-8789-d0ccae8accd3" width="32% />
+  <img alt="Screenshot 2025-11-13 131514" src="https://github.com/user-attachments/assets/9f539bd7-d70d-49f9-b7d8-31be6d7025a9" width="32% />
+</p>
 
 📜 License
 
