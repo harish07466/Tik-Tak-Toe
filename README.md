@@ -63,10 +63,11 @@ Winner announcement screen displayed after a successful game.
 Winner announcement screen displayed after a successful game.
 
 <p align="center">
- <img width="1883" height="876" alt="Screenshot 2025-11-13 131455" src="https://github.com/user-attachments/assets/65d87e1c-083b-41e0-88d6-a8506b4147b2" />
- <img width="1919" height="965" alt="Screenshot 2025-11-13 131507" src="https://github.com/user-attachments/assets/c922acb2-2081-4983-bc92-bcdf0255347a" />
-<img width="1857" height="873" alt="Screenshot 2025-11-13 131514" src="https://github.com/user-attachments/assets/701a48c4-d2ff-40f8-b1c2-010e77f76079" />
+  <img alt="Screenshot 2025-11-13 131455" src="https://github.com/user-attachments/assets/65d87e1c-083b-41e0-88d6-a8506b4147b2" width="32%" />
+  <img alt="Screenshot 2025-11-13 131507" src="https://github.com/user-attachments/assets/c922acb2-2081-4983-bc92-bcdf0255347a" width="32%" />
+  <img alt="Screenshot 2025-11-13 131514" src="https://github.com/user-attachments/assets/701a48c4-d2ff-40f8-b1c2-010e77f76079" width="32%" />
 </p>
+
 
 📜 License
 
