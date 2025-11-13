@@ -1,12 +1,14 @@
 # Tik-Tak-Toe
 
-A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.
+A simple and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScript.
 Play against a friend locally and enjoy a clean UI with smooth gameplay.
 
 🚀 Live Demo
+   " https://harish07466.github.io/Tik-Tak-Toe/ "
 
-*(Add your GitHub Pages link after deployment)*
-Example:
+* Note:- If Google Chrome shows a temporary security warning due to cached DNS data, 
+please refresh the browser cache or open the site in Microsoft Edge or Firefox. 
+The site is safe and works correctly in all modern browsers.
 
 📂 Project Structure
 
@@ -14,13 +16,13 @@ Example:
 │── index.html     # Main game UI
 │── style.css      # Styling & layout
 └── script.js      # Game logic
-🛠️ Technologies Used
 
+🛠️ Technologies Used
 * HTML
 * CSS
 * JavaScript
 
-No external libraries or frameworks required.
+* Note:- No external libraries or frameworks required.
 
 
 🎯 Features
@@ -38,53 +40,26 @@ No external libraries or frameworks required.
 
 To run the project locally:
 
-```sh
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/harish07466/Tik-Tak-Toe.git
 cd your-repo-name
-```
 
 Then open:
 
-```
-index.html
-```
-
-in your browser.
-
----
-
-## 🚀 Deployment (GitHub Pages)
-
-1. Push your project to GitHub
-2. Go to **Settings → Pages**
-3. Under **Source**, select:
-
-   ```
-   Deploy from branch
-   ```
-4. Select **main** branch and **/ (root)** folder
-5. Click **Save**
-6. Your site will be live at:
-
-```
-https://your-username.github.io/your-repo-name/
-```
-
----
+index.html, in your browser.
 
 🧩 How to Play
 
-1. Player **X** starts the game
+1. Player " X " starts the game
 2. Players take turns tapping on empty cells
 3. Game ends when:
-   * A player gets 3 in a row (win)
-   * All cells fill (draw)
-4. Click **Restart** to play again
+   -> A player gets 3 in a row (win)
+   -> All cells fill (draw)
+4. Click " Restart " to play again
 
 
 📸 Screenshot (Optional)
-
-
+Winner announcement screen displayed after a successful game.
+<img width="1857" height="873" alt="Screenshot 2025-11-13 131514" src="https://github.com/user-attachments/assets/43fdecf3-e013-46af-aea5-ad85cf3beacf" />
 
 📜 License
 
